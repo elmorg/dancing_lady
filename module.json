@@ -11,5 +11,7 @@
   "dependencies": {
       "microbit": "lancaster-university/microbit",
       "ubit-neopixel": "elmorg/uBit_neopixel"
-  }
+  },
+  "targetDependencies": {},
+  "bin": "./source"
 }
