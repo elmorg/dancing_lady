@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
       "microbit": "lancaster-university/microbit",
-      "uBit_neopixel": "elmorg/uBit_neopixel"
+      "ubit-neopixel": "elmorg/uBit_neopixel"
   }
 }
