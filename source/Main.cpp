@@ -11,7 +11,7 @@ Copyright (c) 2016 Evan Morgan
 #include "uBit_neopixel.h"
 
 // neopixel settings
-uint8_t dig_pin_num = 1;
+uint8_t pin_num = 2;
 uint8_t leds_per_strip = 24;
 uint8_t errors;
 uint8_t red = 0;
@@ -81,7 +81,7 @@ int main()
 {
     accelerometer.configure();
     accelerometer.setPeriod(100);
-    neopixel_init(&m_strip, dig_pin_num, leds_per_strip);
+    neopixel_init(&m_strip, pin_num, leds_per_strip);
     neopixel_clear(&m_strip);
     startupSeq();
 

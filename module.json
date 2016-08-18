@@ -1,11 +1,14 @@
 {
-  "name": "dancing_lady",
-  "version": "1.0",
-  "description": "Dancing Lady Lights for 12 Days of Christmas project.",
+  "name": "dancing-lady",
+  "version": "0.0.0",
+  "description": "Lighting installation for 12 days of christmas project",
+  "keywords": [
+    "neopixel"
+  ],
+  "author": "Evan Morgan",
+  "homepage": "http://you-rhythmic.com/",
   "license": "MIT",
   "dependencies": {
-    "microbit": "lancaster-university/microbit"
-  },
-  "targetDependencies": {},
-  "bin": "./source"
+  "microbit": "lancaster-university/microbit"
+  }
 }
