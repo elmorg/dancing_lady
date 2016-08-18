@@ -1,0 +1,11 @@
+{
+  "name": "dancing_lady",
+  "version": "1.0",
+  "description": "Dancing Lady Lights for 12 Days of Christmas project.",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
