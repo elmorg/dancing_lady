@@ -9,6 +9,7 @@
   "homepage": "http://you-rhythmic.com/",
   "license": "MIT",
   "dependencies": {
-  "microbit": "lancaster-university/microbit"
+      "microbit": "lancaster-university/microbit",
+      "uBit_neopixel": "elmorg/uBit_neopixel"
   }
 }

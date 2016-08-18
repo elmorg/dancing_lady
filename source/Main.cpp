@@ -8,7 +8,7 @@ Copyright (c) 2016 Evan Morgan
 */
 
 #include "MicroBit.h"
-#include "uBit_neopixel.h"
+#include "ubit-neopixel/uBit_neopixel.h"
 
 // neopixel settings
 uint8_t pin_num = 2;
